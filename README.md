@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mostafa-Saad20
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning android development using Java & android studio
-- 💞️ I’m looking to collaborate on android app projects...
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning Web development using C# & ASP.net
+- 💞️ I’m looking to collaborate on Web apps projects...
 - 📫 How to reach me ...
 
 <!---
