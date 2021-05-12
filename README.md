@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mostafa-Saad20
 - 👀 I’m interested in Software Development(Web, Mobile and Games).
-- 🌱 I’m currently learning Web development using C# & ASP.net
+- 🌱 I’m currently doing web development using PHP & Laravel, MySQL , JS.
 - 💞️ I’m looking to collaborate on Web apps projects...
 - 📫 How to reach me ...
 
