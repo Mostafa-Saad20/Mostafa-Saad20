@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mostafa-Saad20
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently doing Native Mobile Apps using {Java, Kotlin, XML}.
-- 💞️ I’m looking to collaborate on Android projects.
+- 🌱 I’m currently doing Web Apps and Backend Services using {C#, ASP.NET MVC, ASP.NET Core, EF Core}.
+- 💞️ I’m looking to collaborate on .NET projects.
 - 📫 How to reach me => [facebook](https://www.facebook.com/profile.php?id=100015427698681) , 
 [LinkedIn](https://www.linkedin.com/in/mostafa-saad-58343b195/).
 
